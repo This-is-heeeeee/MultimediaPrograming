@@ -1,5 +1,5 @@
 # MultimediaPrograming
-MultimediaPrograming_SejongUniversity
+MultimediaPrograming_SejongUniversity\n
 Using OpenCV in C++
 
 # FastMeanFilter
