@@ -1,5 +1,6 @@
 # MultimediaPrograming
 MultimediaPrograming_SejongUniversity
+Using OpenCV in C++
 
-#FastMeanFilter
+# FastMeanFilter
 -implementation Mean Filter using SAT(Summed Area TAble)
